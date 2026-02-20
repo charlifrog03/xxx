@@ -5,7 +5,7 @@ import time
 st.set_page_config(page_title="For Lindsie", page_icon="❤️")
 
 # This forces the app to wake up and show something immediately
-st.write("### 🎂 Loading Birthday Surprise...")
+st.write("### 🎂 Not that much :P...")
 
 # Trigger animations right away
 st.balloons()
@@ -33,3 +33,4 @@ for char in message:
 
 st.divider()
 st.info("Created with love.")
+
