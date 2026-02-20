@@ -18,8 +18,8 @@ st.title("🎉 Happy Birthday, Lindsie!")
 message = """
 I wish you all the best in the world, and please take care of yourself 
 because I'm not around to watch you. I hope I'm there to celebrate 
-your birthday with you. Enjoy your day and Have Fun.
-always remember that I love you and I care for you. 😘😘😘
+your birthday with you. Always remember that I love you and I care for you.
+Enjoy your day and have fun. 😘😘😘
 
 I love you, and I miss you so much. ❤️
 """
@@ -34,5 +34,6 @@ for char in message:
 
 st.divider()
 st.info("Created with love.")
+
 
 
