@@ -5,7 +5,7 @@ import time
 st.set_page_config(page_title="For Lindsie", page_icon="❤️")
 
 # This forces the app to wake up and show something immediately
-st.write("### 🎂 Not that much :P...")
+st.write("### 🎂 Not that much :P")
 
 # Trigger animations right away
 st.balloons()
@@ -18,7 +18,8 @@ st.title("🎉 Happy Birthday, Lindsie!")
 message = """
 I wish you all the best in the world, and please take care of yourself 
 because I'm not around to watch you. I hope I'm there to celebrate 
-your birthday with you. 
+your birthday with you. Enjoy your day and Have Fun.
+always remember that I love you and I care for you. 😘😘😘
 
 I love you, and I miss you so much. ❤️
 """
@@ -33,4 +34,5 @@ for char in message:
 
 st.divider()
 st.info("Created with love.")
+
 
